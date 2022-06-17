@@ -1,2 +1,2 @@
-# othoz_project
+# _
 financial time series prediction with different models
