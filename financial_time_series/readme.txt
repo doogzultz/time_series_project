@@ -6,7 +6,7 @@ that particular section/subsection, and the comments in each
 cell are either observations of the output or descriptions
 of what the cell does.
 
-The data is stored on my Google drive with a shared link, for ease of
+The data is store on my Google drive with a shared link, for ease of
 importation. I can make this link private in the future, if you wish.
 
 The code has already been run, and the output is already printed. However,
